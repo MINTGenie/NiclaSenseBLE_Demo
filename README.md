@@ -6,3 +6,5 @@ Accelerometer and Temp shown on OLED SSD1306 Display.
 
 Import *.aia to MIT App Inventor and *.ino to Arduino
 Import BHY2, U8g2 libraries and get Nicla mbed board in Arduino board manager
+
+Demo Video: https://youtu.be/Q_YP6IPcEXs
